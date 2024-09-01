@@ -10,8 +10,8 @@ choice = int(input("Enter your choice:"))
 if choice == 1:
   print("addition of numbers = " , inp1+inpt2)
 elif choice == 2:
-  print("subtraction of numbers = " , inpt1-inpt2)
+  print("subtraction of numbers = " , inp1-inp2)
 elif choice == 3:
-  print("multiplication of numbers = ", inpt1*inpt2)
+  print("multiplication of numbers = ", inp1*inp2)
 else:
-  print("division of numbers = " , inpt1/inpt2)
+  print("division of numbers = " , inp1/inp2)
